@@ -1,0 +1,13 @@
+GET http://127.0.0.1:4201/getCriteria HTTP/1.1
+Host: 127.0.0.1:4201
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+Origin: http://localhost:4200
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:4200/analyserenantwoord
+Accept-Encoding: gzip, deflate, br
+Accept-Language: nl-NL,nl;q=0.9,en-US;q=0.8,en;q=0.7
+

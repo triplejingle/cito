@@ -1,0 +1,8 @@
+
+epython:S1142"HThis function has 6 returns or yields, which is more than the 3 allowed.(ë¿”¡øÿÿÿÿ
+dpython:S101"MRename class "AVL_Tree" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(²š­
+hpython:S100$"QRename method "leftRotate" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¥ıˆÏ
+npython:S1003"RRename method "rightRotate" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(»Ù¶ñúÿÿÿÿ
+lpython:S100C"PRename method "getHeight" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(úŞ©ƒÿÿÿÿÿ
+5python:S2325C"Make this method static.(úŞ©ƒÿÿÿÿÿ
+hpython:S100I"QRename method "getBalance" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(»Ëı²

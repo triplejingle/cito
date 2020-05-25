@@ -1,0 +1,16 @@
+POST http://127.0.0.1:4201/Execute HTTP/1.1
+Host: 127.0.0.1:4201
+Connection: keep-alive
+Content-Length: 2005
+Accept: application/json, text/plain, */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+Content-Type: text/plain
+Origin: http://localhost:4200
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:4200/analyserenantwoord
+Accept-Encoding: gzip, deflate, br
+Accept-Language: nl-NL,nl;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"Totalrows":1,"PropertyExtractionScript":"test2.py", "rows": [[{"name":"Plaats","variables":"Apeldoorn"},{"name":"School","variables":"HAN"},{"name":"Niveau","variables":"HBO"},{"name":"Leerling","variables":"563631"},{"name":"Score","variables":"15"},{"name":"Label","variables":"test1"},{"name":"Response","variables":"Litora fringilla turpis hymenaeos tempor interdum pede dapibus ac, dui magna fermentum Habitasse ad sed justo enim placerat sagittis per sagittis in sed adipiscing proin diam duis facilisi adipiscing varius dignissim eu fringilla porta tempor. Pellentesque lorem convallis.Condimentum mus ultrices nostra quis ut commodo diam integer nibh hac. Sociosqu egestas nisl aliquam purus nisl mattis laoreet massa venenatis. Fringilla nisi elementum vehicula. Iaculis sem laoreet lacinia. Interdum Nec augue et aliquam euismod massa hac praesent, mus nec maecenas sollicitudin ante leo metus imperdiet semper vehicula fames interdum sociosqu pretium sit. Duis mi parturient, dignissim platea arcu magnis quis mattis."}],[{"name":"Plaats","variables":"Nijmegen"},{"name":"School","variables":"HAN"},{"name":"Niveau","variables":"HBO"},{"name":"Leerling","variables":"563631"},{"name":"Score","variables":"15"},{"name":"Label","variables":"test1"},{"name":"Response","variables":"Litora fringilla turpis hymenaeos tempor interdum pede dapibus ac, dui magna fermentum Habitasse ad sed justo enim placerat sagittis per sagittis in sed adipiscing proin diam duis facilisi adipiscing varius dignissim eu fringilla porta tempor. Pellentesque lorem convallis.Condimentum mus ultrices nostra quis ut commodo diam integer nibh hac. Sociosqu egestas nisl aliquam purus nisl mattis laoreet massa venenatis. Fringilla nisi elementum vehicula. Iaculis sem laoreet lacinia. Interdum Nec augue et aliquam euismod massa hac praesent, mus nec maecenas sollicitudin ante leo metus imperdiet semper vehicula fames interdum sociosqu pretium sit. Duis mi parturient, dignissim platea arcu magnis quis mattis."}]]}

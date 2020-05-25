@@ -1,0 +1,14 @@
+
+Qpython:S1721;"2Remove the parentheses after this "while" keyword.(şÃÛ¬8ã±ÀÖ’.
+xpython:S117"[Rename this local variable "scriptPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆîç28ƒ×±Ü’.
+qpython:S1542"SRename function "loadModule" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ë“Ë8¼ë±İ’.
+|python:S117"YRename this parameter "desiredModule" to match the regular expression ^[_a-z][a-z0-9_]*$.(À‡¿õıÿÿÿÿ8ç¡§æ’.
+vpython:S117"YRename this parameter "desiredModule" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ë“Ë8“¼¯İ’.
+wpython:S15420"XRename function "executeFunction" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(©ô¥Ÿ8íáÛ’.
+Spython:S1721"/Remove the parentheses after this "if" keyword.(ò­­¨øÿÿÿÿ8ç¡§æ’.
+wpython:S117"TRename this parameter "fileList" to match the regular expression ^[_a-z][a-z0-9_]*$.(À‡¿õıÿÿÿÿ8ç¡§æ’.
+vpython:S1542"RRename function "getModule" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(À‡¿õıÿÿÿÿ8ç¡§æ’.
+tpython:S117)"VRename this parameter "scriptPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(öËÿ—8±¸İ’.
+wpython:S117"YRename this local variable "fileList" to match the regular expression ^[_a-z][a-z0-9_]*$.(ó‚¸8ˆŠ±Ü’.
+wpython:S117*"YRename this local variable "fileList" to match the regular expression ^[_a-z][a-z0-9_]*$.( ¦Îç8±¸İ’.
+}python:S1542)"^Rename function "getFilesFromDirectory" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(öËÿ—8±¸İ’.

@@ -1,0 +1,35 @@
+Teksteigenschappen 
+Interview Wout Waanders
+Vragen:
+Gegeven deze schrijftaak wat maakt een tekst goed wat betreft teksteigenschappen op het gebied van schrijfvaardigheid?
+Wat zijn teksteigenschappen van een goedlopende tekst?
+
+Wat zijn teksteigenschappen van een samenvatting?
+
+Iedereen schrijft op zijn manier:
+Een jongen die had veel rare zinnen opgeschreven. De oorzaak was dat hij het aantal woorden aan het tellen was en de zinnen te lang vond.
+\\\\
+De leraar merkte dat een paar leerlingen te lange zinnen gebruikte en daardoor de tekst onduidelijk was. Hiervoor zegt de leraar "je mag geen lange zinnen gebruiken"
+\\\\
+Een jongen die vroeg hoelang mogen zinnen dan maximaal zijn?
+Daarop antwoordde de leraar dat het maximaal 14 woorden mag zijn.
+\\\\
+De jongen heeft het antwoord van de leraar te letterlijk genomen en daardoor werd de tekst onduidelijk.
+\\\\
+De clue:
+Iemand die schrijft doet het op zijn manier hierdoor kan het zijn dat er lange zinnen nodig zijn. Een goede tekst kan bestaan uit een mix van lange en of korte zinnen. 
+\\\\
+Dit maakt het dus lastig om het automatisch te controleren. Om inzicht te krijgen is dat dus afhankelijk van de antwoorden die je aan het analyseren bent. Bijvoorbeeld alleen mensen met een maximale score.
+\\\\
+Om te kijken naar teksteigenschappen is het een goed begin om te kijken naar wat de opdrachtgever heeft aangegeven:
+Dit geld ook voor:
+Aantal woorden (tokens)(Tokenize)
+Lexical Diversity, het aantal unieke woorden (types)
+Meest gebruikte woorden (excl. bijvoorbeeld bepaalde soorten woorden zoals lidwoorden) 
+Lexical Density, types/tokens 
+
+Daarnaast raad ik aan om te kijken naar het volgende:
+Woordsoorten en Signaalwoorden
+    
+
+ 

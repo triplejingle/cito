@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Tool/Test/sources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prototypes/RPrototype" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Inladen/Test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Inladen/Test/Inladen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Applicatie/Test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Applicatie/Test/Filteren" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Applicatie/Test/Inladen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Applicatie/Test/UseCases" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Prototypes/ScriptModule/Python/Python/PythonUsingMain/PythonScripts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prototypes/ScriptModule/Python/Python" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Prototypes/Github" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Applicatie/Test/Installer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Applicatie/Test/UitvoerenScripts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Applicatie/Test/Executer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Applicatie/Test/Properties" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Applicatie/UsecaseControllers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Applicatie/ExecuteComponent" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Applicatie/FilterVariablesComponent" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Applicatie/InstallComponent" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Applicatie/ScriptComponent" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Applicatie/ScriptResourceComponent" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Applicatie/sources" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.8 (PythonPrototypes)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="R User Library" level="project" />
+    <orderEntry type="library" name="R Skeletons" level="application" />
+  </component>
+</module>

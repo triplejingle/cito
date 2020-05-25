@@ -1,0 +1,17 @@
+
+opython:S117"YRename this parameter "desiredModule" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ë“Ë
+ppython:S117"YRename this local variable "fileList" to match the regular expression ^[_a-z][a-z0-9_]*$.(ó‚¸
+qpython:S117"[Rename this local variable "scriptPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆîç2
+jpython:S1542"SRename function "loadModule" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ë“Ë
+qpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(À‡¿õıÿÿÿÿ
+upython:S117"YRename this parameter "desiredModule" to match the regular expression ^[_a-z][a-z0-9_]*$.(À‡¿õıÿÿÿÿ
+xpython:S117"\Rename this local variable "errorNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î®íüÿÿÿÿ
+ppython:S117"TRename this parameter "fileList" to match the regular expression ^[_a-z][a-z0-9_]*$.(À‡¿õıÿÿÿÿ
+opython:S1542"RRename function "getModule" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(À‡¿õıÿÿÿÿ
+Lpython:S1721"/Remove the parentheses after this "if" keyword.(ò­­¨øÿÿÿÿ
+Lpython:S1721"/Remove the parentheses after this "if" keyword.(Ùâöşÿÿÿÿ
+ppython:S117-"YRename this local variable "fileList" to match the regular expression ^[_a-z][a-z0-9_]*$.( ¦Îç
+mpython:S117,"VRename this parameter "scriptPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(öËÿ—
+vpython:S1542,"^Rename function "getFilesFromDirectory" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(öËÿ—
+ppython:S15424"XRename function "executeFunction" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(©ô¥Ÿ
+mpython:S1542?"URename function "reinstallPip" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(–Ô±¡

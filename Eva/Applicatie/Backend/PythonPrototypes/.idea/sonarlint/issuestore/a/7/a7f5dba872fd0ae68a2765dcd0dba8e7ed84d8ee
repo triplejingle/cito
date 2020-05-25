@@ -1,0 +1,4 @@
+
+qpython:S1578"aRename this module to match this regular expression: "(([a-z_][a-z0-9_]*)|([A-Z][a-zA-Z0-9]+))$".
+6python:S125"Remove this commented out code.(ÌäÜ
+tpython:S1542"WRename function "returnFunction" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¤ŠÒûÿÿÿÿ
